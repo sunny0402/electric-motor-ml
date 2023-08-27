@@ -4,7 +4,6 @@ Dataset_Electric_Motor.csv
 notes.md
 test_hash.ipynb
 DevNotes.md
-*.jpg
-*.jpeg
-*.png
-*.gif
+/nbconvert_files
+/images
+
